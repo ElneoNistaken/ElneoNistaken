@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElneoNistaken
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me elneonistaken@outlook.com ElneoNistaken#9899
+- 📫 How to reach me elneonistaken@outlook.com sooyaa_#1609
 
 <!---
 ElneoNistaken/ElneoNistaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
