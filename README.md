@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElneoNistaken
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning OOP
 - 📫 How to reach me elneonistaken@outlook.com sooyaa_#1609
 
 <!---
