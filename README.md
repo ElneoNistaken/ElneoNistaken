@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loschitnzel
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning a Korean & Japanese
-- 📫 How to reach me elneonistaken@outlook.com Mahiru#9999
+- 🌱 I’m currently learning a Japanese
+- 📫 How to reach me elneonistaken@outlook.com Mahiru#1000
 
 <!---
 ElneoNistaken/ElneoNistaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
