@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loschitnzel
 - 👀 I’m interested in Java and Front-end
-- 🌱 I’m currently learning a Japanese
+- 🌱 I’m currently learning a C#
 - 📫 How to reach me elneonistaken@outlook.com Mahiru#1000
 
 <!---
