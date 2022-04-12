@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @schitnzel
-- 👀 I’m interested in OOP & Front-End
-- 🌱 I’m currently learning a C#
-- 📫 How to reach me schitnzel@outlook.com seo mahiru#0001
+
+- 📫 How to reach me schitnzel@outlook.com Mahiru#9999
