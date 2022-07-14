@@ -2,7 +2,7 @@
 
 - 📫 How to reach me schitnzel@outlook.com Mahiru#9999
 
-<img href="https://lanyard.cnrad.dev/api/852833291131813889"></img>
+<img src="https://lanyard.cnrad.dev/api/852833291131813889"></img>
 
 ## <h1>Languages</h1>
 
