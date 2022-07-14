@@ -2,6 +2,8 @@
 
 - 📫 How to reach me schitnzel@outlook.com Mahiru#9999
 
+## <h1>Languages</h1>
+
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
