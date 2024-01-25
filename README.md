@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mahiruuuu
+- 👋 Hi, I’m @Schraider
 
-- 📫 How to reach me Mahiru#9999
-
-<img src="https://lanyard.cnrad.dev/api/852833291131813889"></img>
+- 📫 How to reach me hiruishiru#8613
 
 ## <h1>Languages</h1>
 
